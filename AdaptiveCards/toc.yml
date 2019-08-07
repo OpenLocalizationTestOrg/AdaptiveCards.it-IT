@@ -1,0 +1,50 @@
+- name: Panoramica
+  href: index.md
+- name: Introduzione
+  items:
+    - name: Sviluppatori bot
+      href: getting-started/bots.md
+    - name: Sviluppatori Windows
+      href: getting-started/windows.md
+    - name: Sviluppatori Outlook
+      href: getting-started/outlook.md
+- name: Creazione di schede
+  items:
+    - name: Introduzione
+      href: authoring-cards/getting-started.md
+    - name: Schema scheda
+      href: 'https://adaptivecards.io/explorer'
+    - name: Discorso
+      href: authoring-cards/speech.md
+    - name: Funzionalità di testo
+      href: authoring-cards/text-features.md
+- name: Schede di rendering
+  items:
+    - name: Introduzione
+      href: rendering-cards/getting-started.md
+    - name: Azioni
+      href: rendering-cards/actions.md
+    - name: Configurazione host
+      href: rendering-cards/host-config.md
+    - name: Estendibilità
+      href: rendering-cards/extensibility.md
+    - name: Stato renderer
+      href: rendering-cards/renderer-status.md
+    - name: Implementare un renderer
+      href: rendering-cards/implement-a-renderer.md
+- name: SDK
+  items:
+    - name: Creazione di schede
+      href: sdk/authoring-cards/toc.yml
+    - name: Schede di rendering
+      href: sdk/rendering-cards/toc.yml
+- name: Risorse
+  items:
+    - name: Principi
+      href: resources/principles.md
+    - name: Partner
+      href: resources/partners.md
+    - name: Strumenti
+      href: resources/tools.md
+    - name: Guida di orientamento
+      href: resources/future.md
